@@ -21,7 +21,10 @@
     <h1 class="text-center my-3">Welcome to the best Calender in the field of ESPORTS!!!</h1>
     <p class="text-center">The only calender you will need for your E-sports Appetite</p>
 
-    <div class="container">
+    <br><br><br>
+
+    <p class="text-center">We will update this section soon!</p>
+    <!-- <div class="container">
         <div class="row">
             <div class="col"><div class="card" style="width: 18rem;">
   <div class="card-body">
@@ -88,7 +91,7 @@
 </div></div>
         </div>
     </div>
-
+ -->
 
     <!-- Optional JavaScript; choose one of the two! -->
 
